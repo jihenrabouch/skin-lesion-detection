@@ -1,15 +1,17 @@
 
-Livrable 1 – Initialisation du projet
-Détection de lésions cutanées par Deep Learning
+# Livrable 1 – Initialisation du projet
 
-Équipe (Team) :
-Nom du projet : Skin Lesion Detection
-Membres du groupe :
-Jihen Benrabouch 
-Ahmed Toujeni
-Ines fehri
-Encadrant :
-M. Haythem Ghazouani
+## Détection de lésions cutanées par Deep Learning
+
+**Nom du projet** : Skin Lesion Detection  
+
+**Équipe (Team)** :  
+- Jihen Benrabouch  
+- Ahmed Toujeni  
+- Ines Fehri  
+
+**Encadrant** : M. Haythem Ghazouani
+
 
 #  Objectif du projet
 
