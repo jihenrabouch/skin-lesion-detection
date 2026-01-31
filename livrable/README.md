@@ -62,18 +62,26 @@ skin-lesion-detection/
 Le projet utilise un **dataset d’images dermatologiques** contenant différentes catégories de lésions cutanées.
 
 ##  Exemples de datasets utilisés
-- **ISIC** (International Skin Imaging Collaboration)
 - **HAM10000**
 
 ##  Description du dataset
-- **Type** : Images (JPEG / PNG)
-- **Nombre d’images** : plusieurs milliers
+- **Type** : Images (.JPG)
+- **Nombre d’images** : 10 015
 - **Classes possibles** :
-  - Lésions bénignes  
-  - Lésions malignes  
-  - Mélanome  
-  - Nævus  
-  - Kératose, etc.
+  nv → mélanocytique bénin
+
+  mel → mélanome
+
+  bkl → kératose bénigne
+
+  bcc → carcinome basocellulaire
+
+  akiec → kératose actinique / épithélioma
+
+  vasc → lésion vasculaire
+
+  df → dermatofibrome |
+      | Métadonnées | Contenues dans HAM10000_metadata.csv (image_id, dx, age, sex, localisation, source) |
 
 ##  Prétraitement des données
 - Redimensionnement des images  
