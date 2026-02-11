@@ -1,0 +1,24 @@
+{
+  "date": "2026-02-05T22:01:57.740679",
+  "file_path": "C:\\Users\\jihen\\Documents\\skin-lesion-detection\\data\\HAM10000_metadata.csv",
+  "total_images": 10015,
+  "n_classes": 7,
+  "class_distribution": {
+    "nv": 6705,
+    "mel": 1113,
+    "bkl": 1099,
+    "bcc": 514,
+    "akiec": 327,
+    "vasc": 142,
+    "df": 115
+  },
+  "columns": [
+    "lesion_id",
+    "image_id",
+    "dx",
+    "dx_type",
+    "age",
+    "sex",
+    "localization"
+  ]
+}

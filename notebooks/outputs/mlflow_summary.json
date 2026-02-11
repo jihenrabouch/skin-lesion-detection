@@ -1,0 +1,20 @@
+{
+  "project": "skin-lesion-detection",
+  "dataset": "HAM10000",
+  "total_images": 10015,
+  "n_classes": 7,
+  "class_distribution": {
+    "nv": 6705,
+    "mel": 1113,
+    "bkl": 1099,
+    "bcc": 514,
+    "akiec": 327,
+    "vasc": 142,
+    "df": 115
+  },
+  "imbalance_ratio": 58.30434782608695,
+  "critical_classes": {
+    "mel": 1113,
+    "bcc": 514
+  }
+}
